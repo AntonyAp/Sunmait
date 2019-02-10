@@ -1,0 +1,17 @@
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\TestExtensionMethods.dll
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\TestExtensionMethods.pdb
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\CustomLinq.exe
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\CustomLinq.pdb
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\CustomLinq.exe.config
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\obj\Debug\TestExtensionMethods.csprojAssemblyReference.cache
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\obj\Debug\TestExtensionMethods.csproj.CoreCompileInputs.cache
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\obj\Debug\TestExtensionMethods.csproj.CopyComplete
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\obj\Debug\TestExtensionMethods.dll
+E:\Sunmait\Codewars\CustomLinq\TestExtensionMethods\obj\Debug\TestExtensionMethods.pdb
