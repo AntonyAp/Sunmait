@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CustomLinq
 {
@@ -13,7 +10,6 @@ namespace CustomLinq
         private IIteratable<T> _sourceIteratable;
         private Func<T, S> _selector;
         private IEnumerator<T> _sourceIEnumerator;
-        private IIteratable<S> result=new CustomList<S>();
         private S _currenT;
         public MapEnumerator(IIteratable<T> sourceIteratable,Func<T,S> selector)
         {
@@ -26,7 +22,7 @@ namespace CustomLinq
 
         object IEnumerator.Current => Current;
 
-        public void add(S el)
+        public void Add(S el)
         {
             
         }

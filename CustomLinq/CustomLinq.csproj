@@ -42,7 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Collection IEnumerator.cs" />
+    <Compile Include="CollectionIEnumerator.cs" />
+    <Compile Include="ICustomList.cs" />
     <Compile Include="IIteratable.cs" />
     <Compile Include="CustomList.cs" />
     <Compile Include="LinqExtensions.cs" />

@@ -1,7 +1,7 @@
 E:\Sunmait\Codewars\CustomLinq\CustomLinq\bin\Debug\CustomLinq.exe.config
 E:\Sunmait\Codewars\CustomLinq\CustomLinq\bin\Debug\CustomLinq.exe
 E:\Sunmait\Codewars\CustomLinq\CustomLinq\bin\Debug\CustomLinq.pdb
-E:\Sunmait\Codewars\CustomLinq\CustomLinq\obj\Debug\CustomLinq.csprojAssemblyReference.cache
 E:\Sunmait\Codewars\CustomLinq\CustomLinq\obj\Debug\CustomLinq.csproj.CoreCompileInputs.cache
 E:\Sunmait\Codewars\CustomLinq\CustomLinq\obj\Debug\CustomLinq.exe
 E:\Sunmait\Codewars\CustomLinq\CustomLinq\obj\Debug\CustomLinq.pdb
+E:\Sunmait\Codewars\CustomLinq\CustomLinq\obj\Debug\CustomLinq.csprojAssemblyReference.cache

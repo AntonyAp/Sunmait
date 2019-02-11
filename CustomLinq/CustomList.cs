@@ -1,22 +1,20 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic; 
 
 namespace CustomLinq
 {
-    public class CustomList<T> :IIteratable<T>
+    public class CustomList<T> :IIteratable<T>,ICustomList<T>
     {
-        public   List<T> _list= new List<T>();
+        private List<T> _list;
 
+        public CustomList(params T[] elements)
+        {
+            _list=new List<T>(elements);
+        }
         public int Count(CustomList<T> list)
         {
             return _list.Count;
         }
-        public void add(T el)
+        public void Add(T el)
         {
             _list.Add(el);
         }
@@ -24,6 +22,5 @@ namespace CustomLinq
         {
            return new CollectionIEnumerator<T>(_list);
         }
-        
     }
 }

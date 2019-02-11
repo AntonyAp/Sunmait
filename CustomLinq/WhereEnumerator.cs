@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CustomLinq
 {
@@ -22,11 +19,6 @@ namespace CustomLinq
         public T Current => _current;
 
         object IEnumerator.Current => Current;
-
-        public void add(T el)
-        {
-            
-        }
 
         public void Dispose()
         {
@@ -54,7 +46,7 @@ namespace CustomLinq
 
         public void Reset()
         {
-            ;
+            
         }
     }
 }
